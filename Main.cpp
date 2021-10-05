@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
 
-	int randomNumbers[] = { 0 };
+	int randomNumbers[] = { 13, 10, 15, 4, 5, 21 };
 
 	SelectionSort selection;
 
