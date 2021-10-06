@@ -139,12 +139,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="BaseLineSortingFeatures.cpp" />
+    <ClCompile Include="BaselineSortingFeatures.cpp" />
     <ClCompile Include="BubbleSort.cpp" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="BaseLineSortingFeatures.h" />
+    <ClInclude Include="BaselineSortingFeatures.h" />
     <ClInclude Include="BubbleSort.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
