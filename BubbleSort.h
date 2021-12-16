@@ -1,15 +1,18 @@
 #ifndef BUBBLESORT
 #define BUBBLESORT
-class BubbleSort
+
+class BubbleSort : public BaseSort
 {
 
 private:
 
-	int bubbleArray[10];
+
 
 public:
 
-
+	BubbleSort();
+	~BubbleSort();
+	void doBubbleSort();
 
 };
 

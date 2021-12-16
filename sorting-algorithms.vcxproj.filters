@@ -21,7 +21,10 @@
     <ClCompile Include="BubbleSort.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="BaselineSortingFeatures.cpp">
+    <ClCompile Include="BaseSort.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectionSort.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -29,7 +32,10 @@
     <ClInclude Include="BubbleSort.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="BaselineSortingFeatures.h">
+    <ClInclude Include="BaseSort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SelectionSort.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

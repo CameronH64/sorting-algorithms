@@ -1,2 +1,10 @@
-﻿  Main.cpp
-  sorting-algorithms.vcxproj -> C:\Users\gold1\source\repos\sorting-algorithms\Debug\sorting-algorithms.exe
+﻿  BaseSort.cpp
+C:\Users\gold1\source\repos\sorting-algorithms\BaseSort.cpp(15,20): warning C4018: '<': signed/unsigned mismatch
+  BubbleSort.cpp
+C:\Users\gold1\source\repos\sorting-algorithms\BubbleSort.h(5,1): error C2504: 'BaseSort': base class undefined
+  Main.cpp
+C:\Users\gold1\source\repos\sorting-algorithms\BubbleSort.h(5,1): error C2504: 'BaseSort': base class undefined
+  SelectionSort.cpp
+C:\Users\gold1\source\repos\sorting-algorithms\SelectionSort.cpp(11,13): warning C4102: 'FindMinimum': unreferenced label
+C:\Users\gold1\source\repos\sorting-algorithms\SelectionSort.cpp(15,20): warning C4102: 'CycleThroughArray': unreferenced label
+  Generating Code...
